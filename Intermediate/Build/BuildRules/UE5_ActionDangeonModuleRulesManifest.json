@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\vantan\\Documents\\Unreal Projects\\UE5_ActionDangeon\\UE5_ActionDangeon\\Source\\UE5_ActionDangeon\\UE5_ActionDangeon.Build.cs",
+		"C:\\Users\\vantan\\Documents\\Unreal Projects\\UE5_ActionDangeon\\UE5_ActionDangeon\\Source\\UE5_ActionDangeon.Target.cs",
+		"C:\\Users\\vantan\\Documents\\Unreal Projects\\UE5_ActionDangeon\\UE5_ActionDangeon\\Source\\UE5_ActionDangeonEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
